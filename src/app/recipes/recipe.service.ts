@@ -1,4 +1,4 @@
-import { Recipe } from "./recipes.model"
+import { Recipe } from "./recipe.model"
 
 export class RecipeService{
     private recipes: Recipe[] = [
